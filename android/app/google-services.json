@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "502732246967",
+    "project_id": "marketinggraduation-fa29c",
+    "storage_bucket": "marketinggraduation-fa29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502732246967:android:4322df4d81b6f5512f2232",
+        "android_client_info": {
+          "package_name": "com.ucas.marketing_graduation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502732246967-egob4mohepbqol07oah8d4hii62ravj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ucas.marketing_graduation",
+            "certificate_hash": "62011478c660093010243d5e2fc55627406b7069"
+          }
+        },
+        {
+          "client_id": "502732246967-n8m97mbrh85cbhnmar5cghi2k88qoku7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5z1oQpstr9Z-ELtii5k46wIIaYAxkExM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502732246967-bu9u64155f1c4sip10ubb6h06cl7ea35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
